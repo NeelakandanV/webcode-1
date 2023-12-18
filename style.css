@@ -1,0 +1,57 @@
+body{
+    background-color: rgb(175, 224, 239);
+}
+.titleCont{
+    position: relative;
+}
+
+h1{
+    text-align: center;
+    color: rgb(87, 175, 175);
+}
+
+.formCont{
+    margin: 5px;
+    padding: 3px;
+    margin-right: 10px;
+    text-align: center;
+}
+
+a:hover{
+    color: rgb(3, 107, 3);
+}
+
+.main-parent{
+    margin: 2px;
+    border: 2px solid rgb(252, 252, 252);
+    padding: 2px;
+}
+
+.parent{
+    border: 2px solid rgb(0, 0, 0);
+    padding: 3px;
+    margin: 8px;
+    background-color: rgb(157, 179, 193);
+}
+
+.des{
+    text-wrap: wrap;
+}
+
+p{
+    text-align: center;
+}
+
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 120px;
+    height: 120px;
+}
+
+
+a{
+   display: block;
+   text-align: center;
+}
